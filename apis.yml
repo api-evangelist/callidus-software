@@ -1,8 +1,27 @@
 aid: callidus-software
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/callidus-software.png
 name: Callidus Software
-description: Callidus Software is a company surfaced as a portfolio company of battery-ventures and added
-  to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  Callidus Software Inc. (branded CallidusCloud) was an enterprise SaaS provider of sales performance
+  and lead-to-money solutions, including Enterprise Incentive Management (EIM) / sales commissions,
+  configure-price-quote (CPQ), contract lifecycle management (CLM), marketing automation, sales
+  enablement, learning management, and gamification. Incorporated in Delaware in 1996 and headquartered
+  in Dublin, California, it went public on Nasdaq (CALD) in 2003. SAP acquired CallidusCloud for
+  $2.4 billion in January 2018, rebranded parts of it (e.g. SAP Litmos for the learning suite), delisted
+  the company, and later divested pieces in 2022. As an independent developer surface CallidusCloud is
+  defunct — the former docs portal (docs.calliduscloud.com) no longer serves a valid TLS certificate and
+  calliduscloud.com now redirects to SAP's acquired-brands page.
 url: https://raw.githubusercontent.com/api-evangelist/callidus-software/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,14 +29,31 @@ x-backed-by:
 - battery-ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-status: acquired
+x-acquired-by: sap
+x-acquired-date: '2018-01-30'
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Sales
+- Sales Performance Management
+- Incentive Compensation
+- CPQ
+- Contract Lifecycle Management
+- Marketing Automation
+- Learning Management
+- SaaS
+- Acquired
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
