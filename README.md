@@ -64,6 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Callidus Software is a company surfaced as a portfolio company of battery-ventures and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **Acquired or rebranded.** This company was acquired, merged or renamed. Its API, if it still exists, is offered under another name. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: battery-ventures
+Callidus Software Inc. (branded CallidusCloud) was an enterprise SaaS provider of sales performance and lead-to-money solutions, including Enterprise Incentive Management (EIM) / sales commissions, configure-price-quote (CPQ), contract lifecycle management (CLM), marketing automation, sales enablement, learning management, and gamification. Incorporated in Delaware in 1996 and headquartered in Dublin, California, it went public on Nasdaq (CALD) in 2003. SAP acquired CallidusCloud for $2.4 billion in January 2018, rebranded parts of it (e.g. SAP Litmos for the learning suite), delisted the company, and later divested pieces in 2022. As an independent developer surface CallidusCloud is defunct — the former docs portal (docs.calliduscloud.com) no longer serves a valid TLS certificate and calliduscloud.com now redirects to SAP's acquired-brands page.
+
+**Areas:** Company · Sales · Sales Performance Management · Incentive Compensation · CPQ · Contract Lifecycle Management · Marketing Automation · LMS · Software-as-a-Service · Acquired
+
+## Callidus Software on APIs.io (historical record)
+
+Everything profiled for Callidus Software is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/callidus-software/](https://apis.io/providers/callidus-software/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as acquired or rebranded, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Callidus Software: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/callidus-software/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
